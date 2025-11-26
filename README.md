@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, Im Artylx
 
-<!--
-**Artylx/Artylx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French developper who have started in 2k23 with my first repo. I can help you set up your website, a application on desktop or even simpler projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and strength
+
+I have work on multiple project with a lot of languages.
+
+- **Frontend:** • CSS • JS • HTML
+- **Backend:** • Python • PHP
+- **Mid:** • Java • C# • C
+
+---
+
+## Project 🔭
+
+### [NSI](https://github.com/Artylx/NSI)
+Code for the first year of high school in France with the subject NSI
