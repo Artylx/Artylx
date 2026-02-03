@@ -10,11 +10,13 @@ I have work on multiple project with a lot of languages.
 
 - **Frontend:** • CSS • JS • HTML
 - **Backend:** • Python • PHP
-- **Mid:** • Java • C# • C
+- **Mid:** • Java • C#
+- **Lower level:** • C
+- **Database :** • SQL • JSON
 
 ---
 
-## Project 🔭
+## Projects 🔭
 
 ### [NSI](https://github.com/Artylx/NSI)
 Code for the first year of high school in France with the subject NSI
